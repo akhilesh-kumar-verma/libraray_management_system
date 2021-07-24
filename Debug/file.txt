@@ -1,0 +1,4 @@
+maths10	Mathematics_Class-10	NCERT	NCERT001
+nameABCD	nameABCD	authABCD	shelfABCD
+nameBDF	nameBDF	authBDF	shelfBCD
+nameCDE	nameCDE	authCDE	shelfCDE
