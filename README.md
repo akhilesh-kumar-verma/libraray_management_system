@@ -43,7 +43,7 @@ file.txt is present to test the system. In this path is according to windows
 notation.
 
 ```
-g++ project.cpp trie.cpp file_handling.cpp info.cpp iter.cpp vector.cpp -o test\project.exe
+g++ project.cpp trie.cpp file_handling.cpp info.cpp iter.cpp node.cpp vector.cpp -o test\project.exe
 ```
 
 ## Possible Improvements
